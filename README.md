@@ -42,7 +42,7 @@
 
 <h3><i>Interested on my top projects? <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /></i></h3>
 <p align="left">
-<a href="https://github.com/kalashband/Nike_cloned.git" target="blank"><img src="https://w7.pngwing.com/pngs/40/718/png-transparent-swoosh-air-force-nike-free-logo-nike-angle-text-triangle-thumbnail.png" alt="Lybrate" width="10%" height="32px"/></a> &nbsp;
+<a href="https://nike-cloned.vercel.app/" target="blank"><img src="https://w7.pngwing.com/pngs/40/718/png-transparent-swoosh-air-force-nike-free-logo-nike-angle-text-triangle-thumbnail.png" alt="Lybrate" width="10%" height="32px"/></a> &nbsp;
 </p>
 
 
